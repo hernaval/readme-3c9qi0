@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hernaval.github.io/readme-3c9qi0/sitemap.xml
